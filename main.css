@@ -1,0 +1,22 @@
+/**
+ * @author Prajyot Walali
+ * @date 28th September, 2018
+ * GITHUB :: github.com/prajyot-w
+ */
+
+html, body { height: 90vh;}
+
+div, h1, h3 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    height: 500px;
+}
+
+#game-board {
+    margin: auto auto;
+    width: 800px;
+    height: 500px;
+}
